@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    
+}
+
+.profile{
+    border border-radius:50px; 
+}
+
+#bio{
+    background:linear-gradient(#2DE786 0%,#FD81F3 100%);
+    
+    font-family: cursive;
+}
+#welcome{
+    background:linear-gradient(#2DE786 0%,#E1BB77 100%);
+    color: black;
+   
+    height: 600px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 0.83;
+    
+    
+}
+.menu{
+    list-style: none;
+    font-family: bold;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    color: black;
+    font-size: 20px;
+}
+#h{
+    font-size: 40px;
+}
+#hh{
+   font-size: 30px; 
+}
+.links{
+    float: left;
+    padding-top:5px ;
+    padding-bottom:px ;
+    padding-left:9px ;
+    padding-right:9px;
+    font-size: 20px;
+}
+.links:hover{
+    background-color:brown;
+}
+    
